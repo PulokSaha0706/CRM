@@ -5,7 +5,6 @@ A simplified CRM system built with:
 - **Frontend**: React.js
 - **Backend**: Node.js (Express)
 - **Database**: MySQL
-- **Dockerized Full Stack**: Docker & Docker Compose
 
 Designed for performance, scalability, and real-world deployment readiness.
 
@@ -20,7 +19,6 @@ Designed for performance, scalability, and real-world deployment readiness.
 - **Backend API**: RESTful, built with Node.js & Express
 - **Frontend**: ReactJS, responsive, clean UI
 - **Authentication**: Basic token-based authentication (login, registration)
-- **Dockerized**: Full-stack deployment with Docker Compose
 
 ---
 
